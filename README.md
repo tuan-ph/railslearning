@@ -1,24 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Hello Everyone, I'm web developer.
+This is my repository to learning Ruby on Rails
+Reference original video at: 
+https://www.youtube.com/watch?v=fmyvWz5TUWg&t=4068s
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Thank you!
